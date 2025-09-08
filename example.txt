@@ -1,8 +1,5 @@
-My Grocery List
-- Apples
-- Bananas
-- Potato Chips
-- Eggs
-- Butter
-- Sugar
-- Lemons
+My Todo List
+- Homework
+- Buy cat litter
+- Buy cat food
+- Play fortnite
